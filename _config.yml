@@ -31,7 +31,7 @@ github_username:  geema1196
 
 # Build settings
 markdown: kramdown
-theme: null
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
