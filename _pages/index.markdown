@@ -5,14 +5,5 @@ permalink: /
 ---
 
 
-# A Simple Test Website
-
-A link to another page:
-
-- [About](/about/)
-
-{% for post in site.posts %}
-    {% assign title_slugged = post.title | slugify %}
-    {% assign categories_current = post.categories | join: "/" %}
-    - [{{ post.title }}](/blog/{{categories_current}}/{{title_slugged}}/)
-{% endfor %}
+### About Me
+I am a PhD candidate at the Center for Applied Mathematics at Cornell University, advised by Alexander Vladimirsky. My research interests are optimal control and numerical analysis, with a focus on applications to biology and ecology.

@@ -23,7 +23,7 @@ include: [_pages]
 title: Marissa Gee
 email: mag433 at cornell dot edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal website.
+  I am a PhD candidate at the Center for Applied Mathematics at Cornell University.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
